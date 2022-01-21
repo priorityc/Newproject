@@ -7,4 +7,5 @@ java
 shop
 gallery
 travel
+mein
 These are the pages of my web site
