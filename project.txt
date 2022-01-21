@@ -5,6 +5,7 @@ story
 blog
 java
 shop
+pictures
 gallery
 travel
 mein
