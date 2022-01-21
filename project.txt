@@ -4,6 +4,7 @@ about me
 story
 blog
 java
+lessons
 shop
 pictures
 gallery
