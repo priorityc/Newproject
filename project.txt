@@ -1,6 +1,7 @@
 home
 contact
 about me 
+story
 blog
 shop
 These are the pages of my web site
