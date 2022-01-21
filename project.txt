@@ -5,4 +5,5 @@ story
 blog
 shop
 gallery
+travel
 These are the pages of my web site
