@@ -3,6 +3,7 @@ contact
 about me 
 story
 blog
+java
 shop
 gallery
 travel
