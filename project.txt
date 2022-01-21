@@ -1,0 +1,6 @@
+home
+contact
+about me 
+blog
+shop
+These are the pages of my web site
